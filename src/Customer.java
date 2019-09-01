@@ -5,5 +5,7 @@
 public class Customer {
     public void sayHello(){
         System.out.println("hello");
+
+        System.out.println("project02");
     }
 }

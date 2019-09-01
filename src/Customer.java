@@ -7,5 +7,7 @@ public class Customer {
         System.out.println("hello");
 
         System.out.println("project02");
+
+        System.out.println("hello");
     }
 }

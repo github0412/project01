@@ -4,10 +4,9 @@
  */
 public class Customer {
     public void sayHello(){
-        System.out.println("hello");
-
+        System.out.println("1");
         System.out.println("project02");
-
-        System.out.println("hello");
+        System.out.println("project02");
+        System.out.println("project02");
     }
 }
